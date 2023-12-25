@@ -1,0 +1,19 @@
+.odd-numbered {
+    background-color:rgb(220, 147, 190);
+    font-family: "Verdana", "Dejavu Sans", "sans-serif";
+}
+
+#second-element {
+    font-size: 32px;
+    color: blue;
+}
+
+.cooler-class {
+    font-size: 24px;
+}
+
+#fourth-element {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
